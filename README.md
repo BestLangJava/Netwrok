@@ -1,1 +1,1 @@
-# Netwrok
+vless://2bdf9561-2158-4bcf-9f66-214ed59b6ec5@8.217.239.116:2052?encryption=none&security=none&sni=08-25alex.bestlangjava.workers.dev&fp=randomized&type=ws&host=08-25alex.bestlangjava.workers.dev&path=%2F%3Fed%3D2048#8.217.239.116
