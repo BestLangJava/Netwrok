@@ -1,4 +1,4 @@
-![image](https://github.com/BestLangJava/Netwrok/assets/100116261/fb0b159d-3cd8-46ea-bbdf-3d5fc621d8e2)Date of Lastest Update：4-22  
+Date of Lastest Update：4-22  
 最近网络环境变化比较大，会定期更新配置，下次节点用不了直接来这里找新的  
 
 步骤:
