@@ -12,3 +12,8 @@ Date of Lastest Update：4-22
 vless://2bdf9561-2158-4bcf-9f66-214ed59b6ec5@47.245.10.164:2052?encryption=none&security=none&sni=08-25alex.bestlangjava.workers.dev&fp=randomized&type=ws&host=08-25alex.bestlangjava.workers.dev&path=%2F%3Fed%3D2048#%E5%8F%8D%E4%BB%A3IP%E8%87%AA%E5%8F%96%EF%BC%9Ahttps%3A%2F%2Fwww.itdog.cn%2Fping%2Facjp2.cloudflarest.link
 
 最新![image](https://github.com/user-attachments/assets/151b8f98-a065-4044-a0ec-0b2224370339)
+
+不带tls
+vless://6cefd298-af83-4f72-9e05-75d172793a5a@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=chromego.bestlangjava.workers.dev&path=%2F%3Fed%3D2560#chromego.bestlangjava.workers.dev
+带tls
+vless://6cefd298-af83-4f72-9e05-75d172793a5a@www.visa.com.sg:8443?encryption=none&security=tls&type=ws&host=chromego.bestlangjava.workers.dev&sni=chromego.bestlangjava.workers.dev&fp=random&path=%2F%3Fed%3D2560#chromego.bestlangjava.workers.dev
